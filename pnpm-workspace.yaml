@@ -1,0 +1,5 @@
+save-workspace-protocol: false
+prefer-workspace-packages: true
+
+packages:
+  - "benchmarks/*/*"

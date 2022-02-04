@@ -1,0 +1,4 @@
+node_modules
+.snowstorm
+.next
+pnpm-lock.yaml
